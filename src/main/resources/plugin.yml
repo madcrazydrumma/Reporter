@@ -1,0 +1,17 @@
+name: Reporter
+main: net.fissionstudios.Reporter
+version: 1.2
+author: Fission Studios
+commands:
+   report-help:
+      description: Reporter Help.
+      usage: /<command>
+   report:
+      description: Reporter
+      usage: /<command>
+   cleardb:
+      description: Clear DB
+      usage: /<command>
+   warn:
+      description: Add warning point to player
+      usage: /<command>

@@ -1,0 +1,4 @@
+DB:
+  user: 'username'
+  pass: 'password'
+  url: 'jdbc:mysql://localhost:3306/mydatabase'
